@@ -1,6 +1,6 @@
 # License
 
-**Labios que embriagan**
+**Labios que embriagan, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

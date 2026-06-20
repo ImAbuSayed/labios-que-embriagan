@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios que embriagan, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Labios que embriagan, Vol. 2** (labios-que-embriagan-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T01:05:43.084359 | `v1` | `1983b5a0ad6c033e7732079005ade6e2eaec0ff02e6ee0413ccd8710596b375f` | `9d71feec89b949dc96aa1edc7ba4433cfcb66ff5cab86b4a8a674846a947aa78` | `2026-06-21_labios-que-embriagan-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
